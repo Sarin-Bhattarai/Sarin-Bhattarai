@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarin-Bhattarai
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Express
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarin.punk@gmail.com
 
