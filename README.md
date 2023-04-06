@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarin-Bhattarai
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Express
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development and data science
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on free lancing
 - 📫 How to reach me sarin.punk@gmail.com
 
 <!---
