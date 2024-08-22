@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarin.punk@gmail.com**
 
-- ⚡ Fun fact **The original name for Java was "Oak," named after the tree that stood outside the creator's office. It was later renamed Java because of trademark issues.**
+- ⚡ Fun fact **Sometimes I write code that even I don't understand... and I wrote it yesterday!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
