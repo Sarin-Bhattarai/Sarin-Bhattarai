@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarin-bhattarai" alt="sarin-bhattarai" /></a> </p>
 
-- 🌱 I’m currently learning **ML & Data analysis**
+- 🌱 I’m currently learning **Next.js and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarin-Bhattarai](https://github.com/Sarin-Bhattarai)
 
